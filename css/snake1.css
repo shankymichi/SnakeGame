@@ -1,0 +1,22 @@
+﻿body {
+    
+}
+#outercanvas{
+    width:900px;
+    height:500px;
+    
+    background-color:black;
+    margin:50px;
+    border:5px solid firebrick;
+    
+}
+#mycanvas {
+    width: 600px;
+    height: 600px;
+    background-color: black;
+    margin: 50px;
+    border: 5px solid firebrick;
+    background-image: url("illusion.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
